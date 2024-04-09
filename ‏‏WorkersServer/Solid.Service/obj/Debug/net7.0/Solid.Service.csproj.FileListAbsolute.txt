@@ -1,0 +1,32 @@
+C:\Users\ASUS\Desktop\WorkerServer\Solid.Service\bin\Debug\net7.0\Solid.Service.deps.json
+C:\Users\ASUS\Desktop\WorkerServer\Solid.Service\bin\Debug\net7.0\Solid.Service.dll
+C:\Users\ASUS\Desktop\WorkerServer\Solid.Service\bin\Debug\net7.0\Solid.Service.pdb
+C:\Users\ASUS\Desktop\WorkerServer\Solid.Service\bin\Debug\net7.0\Solid.Core.dll
+C:\Users\ASUS\Desktop\WorkerServer\Solid.Service\bin\Debug\net7.0\Solid.Core.pdb
+C:\Users\ASUS\Desktop\WorkerServer\Solid.Service\obj\Debug\net7.0\Solid.Service.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\WorkerServer\Solid.Service\obj\Debug\net7.0\Solid.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\WorkerServer\Solid.Service\obj\Debug\net7.0\Solid.Service.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\WorkerServer\Solid.Service\obj\Debug\net7.0\Solid.Service.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\WorkerServer\Solid.Service\obj\Debug\net7.0\Solid.Service.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\WorkerServer\Solid.Service\obj\Debug\net7.0\Solid.Service.csproj.CopyComplete
+C:\Users\ASUS\Desktop\WorkerServer\Solid.Service\obj\Debug\net7.0\Solid.Service.dll
+C:\Users\ASUS\Desktop\WorkerServer\Solid.Service\obj\Debug\net7.0\refint\Solid.Service.dll
+C:\Users\ASUS\Desktop\WorkerServer\Solid.Service\obj\Debug\net7.0\Solid.Service.pdb
+C:\Users\ASUS\Desktop\WorkerServer\Solid.Service\obj\Debug\net7.0\ref\Solid.Service.dll
+C:\Users\ASUS\Desktop\WorkerServer\Solid.Service\obj\Debug\net7.0\Solid.Service.sourcelink.json
+C:\Users\ASUS\Desktop\‏‏WorkerServer - עותק\Solid.Service\bin\Debug\net7.0\Solid.Service.deps.json
+C:\Users\ASUS\Desktop\‏‏WorkerServer - עותק\Solid.Service\bin\Debug\net7.0\Solid.Service.dll
+C:\Users\ASUS\Desktop\‏‏WorkerServer - עותק\Solid.Service\bin\Debug\net7.0\Solid.Service.pdb
+C:\Users\ASUS\Desktop\‏‏WorkerServer - עותק\Solid.Service\bin\Debug\net7.0\Solid.Core.dll
+C:\Users\ASUS\Desktop\‏‏WorkerServer - עותק\Solid.Service\bin\Debug\net7.0\Solid.Core.pdb
+C:\Users\ASUS\Desktop\‏‏WorkerServer - עותק\Solid.Service\obj\Debug\net7.0\Solid.Service.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\‏‏WorkerServer - עותק\Solid.Service\obj\Debug\net7.0\Solid.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\‏‏WorkerServer - עותק\Solid.Service\obj\Debug\net7.0\Solid.Service.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\‏‏WorkerServer - עותק\Solid.Service\obj\Debug\net7.0\Solid.Service.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\‏‏WorkerServer - עותק\Solid.Service\obj\Debug\net7.0\Solid.Service.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\‏‏WorkerServer - עותק\Solid.Service\obj\Debug\net7.0\Solid.Service.sourcelink.json
+C:\Users\ASUS\Desktop\‏‏WorkerServer - עותק\Solid.Service\obj\Debug\net7.0\Solid.Service.csproj.CopyComplete
+C:\Users\ASUS\Desktop\‏‏WorkerServer - עותק\Solid.Service\obj\Debug\net7.0\Solid.Service.dll
+C:\Users\ASUS\Desktop\‏‏WorkerServer - עותק\Solid.Service\obj\Debug\net7.0\refint\Solid.Service.dll
+C:\Users\ASUS\Desktop\‏‏WorkerServer - עותק\Solid.Service\obj\Debug\net7.0\Solid.Service.pdb
+C:\Users\ASUS\Desktop\‏‏WorkerServer - עותק\Solid.Service\obj\Debug\net7.0\ref\Solid.Service.dll

@@ -1,0 +1,32 @@
+#header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f2f2f2; /* רקע אפור */
+    height: 80px; /* גובה */
+    display: flex;
+}
+
+.centered-buttons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.link-button {
+    background-color: transparent;
+    border: none;
+    color: rgb(19 23 122); /* צבע כפתור */
+    font-size: 20px; /* גודל גופן */
+    cursor: pointer;
+    margin: 0 10px; /* מרווח בין הכפתורים */
+    padding: 10px 20px; /* גודל הכפתור */
+    border-radius: 15px; /* עיגול קצוות */
+    text-decoration: none;
+    transition: background-color 0.3s, color 0.3s; /* אנימציה */
+}
+
+.link-button:hover {
+    border-bottom: rgb(19 23 122) 3px solid;; /* רקע צבעוני בעת העצירה */
+   border-radius: 0;
+}
